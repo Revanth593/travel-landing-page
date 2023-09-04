@@ -1,0 +1,370 @@
+>> FONTS
+
+poppins 700
+poppins 600
+poppins 400
+poppins 500
+peralta 400
+Montserrat 400;
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Peralta', serif;
+font-family: 'Poppins', sans-serif;
+
+>> color code
+
+---background purple: #4B40C5;
+----background orange: #EC682C;
+
+width: 1440px
+height: 6406px
+top: 142px
+left: 392px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>> BON VOYAGE
+
+-- Bon Voyage
+-- layout
+
+width: 314px
+height: 45px
+top: 48px
+left: 55px
+border: 1px
+
+-- typography
+
+font-family: Peralta;
+font-size: 40px;
+font-weight: 400;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+
+--colors
+
+background: #000000;
+
+--borders
+
+border: 1px solid #000000
+
+>> NAV BAR
+
+-- DESTINATIONS
+
+-- layout
+width: 148px
+height: 34px
+
+--typography
+font-family: Poppins;
+font-size: 23px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+
+-- colors
+background: #212832;
+
+--location
+width: Hug (164px)
+height: Hug (50px)
+top: 45px
+left: 374px
+padding: 8px
+gap: 8px
+
+>> HOTELS
+
+-- location
+width: Hug (90px)
+height: Hug (50px)
+top: 45px
+left: 587px
+padding: 8px
+gap: 8px
+
+-- layout
+width: 74px
+height: 34px
+
+font-family: Poppins;
+font-size: 23px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+
+
+background: #212832;
+
+>> FLIGHTS
+
+--locatiion
+width: Hug (95px)
+height: Hug (50px)
+top: 45px
+left: 746px
+padding: 8px
+gap: 8px
+
+-- layout
+width: 79px
+height: 34px
+
+*******font-family: Poppins;
+font-size: 23px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+
+background: #212832;
+
+>> BOOKINGS
+
+--location
+width: Hug (124px)
+height: Hug (50px)
+top: 45px
+left: 907px
+padding: 8px
+gap: 8px
+
+width: 79px
+height: 34px
+
+font-family: Poppins;
+font-size: 23px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+
+background: #212832;
+
+>> LOGIN BOX
+
+-- location
+width: Fixed (107px)
+height: Fixed (40px)
+top: 50px
+left: 1107px
+padding: 8px 20px 8px 20px
+border-radius: 8px
+border: 1px
+gap: 8px
+
+--LOGIN
+
+width: 60px
+height: 34px
+
+font-family: Poppins;
+font-size: 23px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+background: #FFFFFF;
+
+>> SIGNUP BOX
+
+-- location
+
+width: Hug (125px)
+height: Fixed (40px)
+top: 50px
+left: 1261px
+padding: 8px 20px 8px 20px
+border-radius: 8px
+border: 1px
+gap: 8px
+
+background: #EC682C;
+
+border: 1px solid #EC682C
+
+>>SIGNUP
+
+width: 85px
+height: 34px
+
+font-family: Poppins;
+font-size: 23px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+background: #FFFFFF;
+
+>> TRAVEL AND 
+---location
+width: 1108px
+height: 89px
+top: 387px
+left: 41px
+
+--typography
+font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+line-height: 118px;
+letter-spacing: -0.04em;
+text-align: left;
+
+background: #4B40C5;
+
+>>BEST DESTINATIONS
+---layout
+width: 757px
+height: 47px
+top: 476px
+left: 50px
+
+---typography
+font-family: Poppins;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+
+background: #FFFFFF;
+
+>>FIND OUT MORE BOX
+--location
+width: 228.00958251953125px
+height: 75.88206481933594px
+top: 549px
+left: 50px
+border-radius: 13.301215171813965px
+
+background: #4B40C5;
+
+***********box-shadow: 0px 26.60243034362793px 46.55425262451172px 0px #F1A50126;
+
+>>FIND OUT
+--locatiion
+width: 195px
+height: 29px
+top: 573px
+left: 66px
+
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+
+background: #FFF1DA;
+
+----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
